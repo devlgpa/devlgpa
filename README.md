@@ -10,6 +10,6 @@
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=devlgpa&show_icons=true&theme=algolia"/>
 </p>
 
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=devlgpa&theme=algolia"/>
+<p align="center"><img  width="40%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=devlgpa&theme=algolia"/>
 
 </p>
