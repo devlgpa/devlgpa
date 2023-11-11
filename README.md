@@ -5,9 +5,9 @@
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=devlgpa&theme=gotham&show_icons=true" alt="devlgpa"/>
 
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shamimsikder&show_icons=true&theme=gotham"/>
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=devlgpa&show_icons=true&theme=gotham"/>
 </p>
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=devlgpa&theme=gotham"/>
